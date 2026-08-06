@@ -77,6 +77,6 @@ Herramienta interna para empresas de inspección técnica no destructiva, diseñ
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario) *(Actualizar enlace)*
-- **Email:** [tu-email@correo.com](mailto:tu-email@correo.com) *(Actualizar correo)*
+- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/feed/)
+- **Email:** [tu-email@correo.com](mateobelatti7@gmail.com)
 - **GitHub:** [github.com/MateoBelatti](https://github.com/MateoBelatti)
